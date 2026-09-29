@@ -1,5 +1,5 @@
 # sites-html-css
-# Projetos de Front-End — Aula de Web (UCS)
+# Projetos de Front-End
 
 Sites desenvolvidos na disciplina de Front-End, com HTML5 semântico, CSS3 (Flexbox e Grid) e formulários.
 
